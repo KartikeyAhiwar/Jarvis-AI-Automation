@@ -30,7 +30,7 @@ This repository contains an intelligent virtual assistant named **Jarvis** that 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/KartikeyAhiwar/Jarvis-Automation.git
+git clone https://github.com/KartikeyAhiwar/Jarvis-Automation.git ```
 
 ## Navigate to the project directory:
   cd Jarvis-Automation
@@ -42,7 +42,7 @@ git clone https://github.com/KartikeyAhiwar/Jarvis-Automation.git
    python jarvis.py
    Jarvis will greet you based on the time of day.
    Speak commands such as "open notepad," "what's my IP address," or "play music."
-<h>📝 Commands
+<h3>📝 Commands
 
 Here’s a list of some cool things you can ask Jarvis to do:
 
@@ -64,7 +64,7 @@ Here’s a list of some cool things you can ask Jarvis to do:
 
     Information Retrieval:
         "What is my IP address"
-        "Search Wikipedia for 'Machine Learning'"<h>
+        "Search Wikipedia for 'Machine Learning'"<h3/>
 
 
 
