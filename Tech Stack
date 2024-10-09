@@ -1,0 +1,15 @@
+🧠 How It Works
+
+This project integrates several Python libraries to enable voice-activated automation:
+
+    Speech Recognition: Uses the speech_recognition library to convert spoken words into text.
+    Text-to-Speech: Uses pyttsx3 to convert text back into voice.
+    Automation:
+        Open Applications: The os library is used to open apps like Notepad and Command Prompt.
+        Web & Messaging: The webbrowser module is used to open websites, while pywhatkit sends WhatsApp messages.
+        Email: Sends emails via the smtplib module.
+
+Tech Stack
+
+    Python
+    Libraries: pyttsx3, speech_recognition, cv2, pywhatkit, wikipedia, requests
