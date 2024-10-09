@@ -31,3 +31,41 @@ This repository contains an intelligent virtual assistant named **Jarvis** that 
 
 ```bash
 git clone https://github.com/KartikeyAhiwar/Jarvis-Automation.git
+
+## Navigate to the project directory:
+  cd Jarvis-Automation
+## Install the required dependencies:
+  pip install -r requirements.txt
+
+💻 Usage:
+  Run the program:
+   python jarvis.py
+   Jarvis will greet you based on the time of day.
+   Speak commands such as "open notepad," "what's my IP address," or "play music."
+<h>📝 Commands
+
+Here’s a list of some cool things you can ask Jarvis to do:
+
+    Open Applications:
+        "Open notepad"
+        "Open command prompt"
+
+    Web Tasks:
+        "Open YouTube"
+        "Open Google and search 'Python tutorials'"
+
+    Multimedia:
+        "Play music"
+        "Play songs on YouTube"
+
+    Email & Messaging:
+        "Send email to me"
+        "Send message on WhatsApp"
+
+    Information Retrieval:
+        "What is my IP address"
+        "Search Wikipedia for 'Machine Learning'"<h>
+
+
+
+
